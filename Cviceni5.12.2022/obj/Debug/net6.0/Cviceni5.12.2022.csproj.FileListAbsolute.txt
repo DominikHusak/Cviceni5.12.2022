@@ -1,0 +1,15 @@
+C:\Users\Dominik Husák\source\repos\Cviceni5.12.2022\Cviceni5.12.2022\bin\Debug\net6.0\Cviceni5.12.2022.exe
+C:\Users\Dominik Husák\source\repos\Cviceni5.12.2022\Cviceni5.12.2022\bin\Debug\net6.0\Cviceni5.12.2022.deps.json
+C:\Users\Dominik Husák\source\repos\Cviceni5.12.2022\Cviceni5.12.2022\bin\Debug\net6.0\Cviceni5.12.2022.runtimeconfig.json
+C:\Users\Dominik Husák\source\repos\Cviceni5.12.2022\Cviceni5.12.2022\bin\Debug\net6.0\Cviceni5.12.2022.dll
+C:\Users\Dominik Husák\source\repos\Cviceni5.12.2022\Cviceni5.12.2022\bin\Debug\net6.0\Cviceni5.12.2022.pdb
+C:\Users\Dominik Husák\source\repos\Cviceni5.12.2022\Cviceni5.12.2022\obj\Debug\net6.0\Cviceni5.12.2022.csproj.AssemblyReference.cache
+C:\Users\Dominik Husák\source\repos\Cviceni5.12.2022\Cviceni5.12.2022\obj\Debug\net6.0\Cviceni5.12.2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik Husák\source\repos\Cviceni5.12.2022\Cviceni5.12.2022\obj\Debug\net6.0\Cviceni5.12.2022.AssemblyInfoInputs.cache
+C:\Users\Dominik Husák\source\repos\Cviceni5.12.2022\Cviceni5.12.2022\obj\Debug\net6.0\Cviceni5.12.2022.AssemblyInfo.cs
+C:\Users\Dominik Husák\source\repos\Cviceni5.12.2022\Cviceni5.12.2022\obj\Debug\net6.0\Cviceni5.12.2022.csproj.CoreCompileInputs.cache
+C:\Users\Dominik Husák\source\repos\Cviceni5.12.2022\Cviceni5.12.2022\obj\Debug\net6.0\Cviceni5.12.2022.dll
+C:\Users\Dominik Husák\source\repos\Cviceni5.12.2022\Cviceni5.12.2022\obj\Debug\net6.0\refint\Cviceni5.12.2022.dll
+C:\Users\Dominik Husák\source\repos\Cviceni5.12.2022\Cviceni5.12.2022\obj\Debug\net6.0\Cviceni5.12.2022.pdb
+C:\Users\Dominik Husák\source\repos\Cviceni5.12.2022\Cviceni5.12.2022\obj\Debug\net6.0\Cviceni5.12.2022.genruntimeconfig.cache
+C:\Users\Dominik Husák\source\repos\Cviceni5.12.2022\Cviceni5.12.2022\obj\Debug\net6.0\ref\Cviceni5.12.2022.dll
